@@ -1,0 +1,42 @@
+banner_suffix:
+links:
+  - class_name: 推荐博主 # 分类名称
+    descr: 本站推荐的优秀博主，综合排序 # 分类简介
+    type: card # 显示方式，有两种 card / item
+    suffix:
+    link_list:
+      - name: 张洪Heo # 友链名称
+        link: https://blog.zhheo.com/ # 友链地址
+        descr: 分享设计与科技生活 # 友链简介
+        avatar: https://img.zhheo.com/i/67d8fa75943e4.webp # 显示头像
+        topimg: https://img.zhheo.com/i/67d8fb3c51399.webp # 如果是card模式下，将显示
+        tag: 博主
+        color: vip
+      - name: Efu # 友链名称
+        link: https://blog.efu.me # 友链地址
+        descr: An Open Source worker. # 友链简介
+        avatar: https://s3.qjqq.cn/47/660a7ece07609.webp!color # 显示头像
+        topimg: https://image.qqe4.com/Piclist/20250424/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250424103604.png
+        tag: 博主
+        color: vip
+      - name: 风记星辰 # 友链名称
+        link: https://www.thyuu.com # 友链地址
+        descr: 热爱你来过的每度温暖 # 友链简介
+        avatar: https://std.thyuu.com/logo.svg # 显示头像
+        topimg: https://image.qqe4.com/Piclist/20250424/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250424103319.png
+        tag: 博主
+        color: vip
+      - name: 安知鱼
+        link: https://blog.anheyu.com/
+        avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+        descr: 生活明朗，万物可爱
+        topimg: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+  - class_name: 技术
+    descr: 技术知识为主的博客
+    type: item
+    suffix:
+    link_list:
+      - name: isYangs # 友链名称
+        link: https://isyangs.cn # 友链地址
+        avatar: https://7.isyangs.cn/8/655c9835780a0-8.jpg # 显示头像
+        descr: 一个前端Bug构造师的博客 # 友链简介

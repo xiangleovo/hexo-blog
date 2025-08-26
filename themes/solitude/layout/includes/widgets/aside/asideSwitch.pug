@@ -1,0 +1,24 @@
+//- ===========================================
+//- 侧边栏组件切换器
+//- ===========================================
+
+include ../../mixins/common.pug
+
+//- 主切换逻辑
+- var trimmedItem = item ? item.trim() : ''
+case trimmedItem
+  when 'about'
+    include ./asideInfoCard.pug
+  when 'newestPost'
+    include ./asideNewestPost.pug
+  when 'allInfo'
+    include ./asideAllInfo.pug
+  when 'ads'
+    include ./asideAdsense.pug
+  when 'newest_comment'
+    include ./asideNewstComments.pug
+  default
+    //- 处理自定义组件 - 添加安全检查
+    - const custom = (site.data && site.data.aside && Array.isArray(site.data.aside)) ? site.data.aside.find((i) => i && i.name === trimmedItem) : null
+    if custom
+      include ./asideCustom.pug
