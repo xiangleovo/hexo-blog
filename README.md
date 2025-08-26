@@ -4,15 +4,15 @@
 
 ## 🚀 功能特点
 
-- **主题**: 使用了流行的 [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 主题。
-- **评论**: 集成了 Waline 评论系统。
+- **主题**: 使用了流行的 [solitude](https://solitude.js.org/) 主题。
+- **评论**: 集成了 Twikoo 评论系统。
 - **部署**: 通过 GitHub Actions 自动部署到腾讯云 EdgeOne。
 
 ## 📦 安装与使用
 
 1.  **克隆项目**
     ```bash
-    git clone https://github.com/你的用户名/你的仓库名.git
+    git clone https://github.com/xiangleovo/hexo-blog.git
     ```
 
 2.  **安装依赖**
@@ -32,7 +32,7 @@
 - 生活随笔
 - 好物推荐
 
-欢迎访问我的博客: [https://your-blog-url.com](https://your-blog-url.com)
+欢迎访问我的博客: [https://www.qqe4.com](https://www.qqe4.com)
 
 ## 🤝 参与贡献
 
