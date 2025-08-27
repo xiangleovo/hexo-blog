@@ -549,7 +549,7 @@ footer:
   beian:
     - name: 皖公网安备34082602221147号
       icon: https://beian.mps.gov.cn/img/logo01.dd7ff50e.png
-      url: https://beian.miit.gov.cn/
+      url: https://beian.mps.gov.cn/#/query/webSearch?code=34082602221147
     - name: 皖ICP备2020017065号-2
       url: https://beian.miit.gov.cn/
 
