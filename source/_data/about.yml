@@ -147,8 +147,8 @@ oneself: # 按需填写
   major: 编程 # 专业
   occupation: 新媒体运营 # 职位
   map: # 你所在位置的地图
-    light: https://7.isyangs.cn/1/65eb2ec63a9aa-1.png # 白天
-    dark: https://7.isyangs.cn/1/65eb2eedc780e-1.png # 夜晚
+    light: https://image.qqe4.com/Piclist/20250828134223665.png # 白天
+    dark: https://image.qqe4.com/Piclist/20250828134223664.png # 夜晚
 
 # 自定义
 cause:
