@@ -975,7 +975,7 @@ CDN:
   
   # Custom format for CDN URLs
   # CDN URL 自定义格式
-  custom_format: https://www.qqe4.com/plugins/${cdnjs_name}/${version}/${min_cdnjs_file}
+  custom_format: https://www.qqe4.com/libs/${cdnjs_name}/${version}/${min_cdnjs_file}
   
   # 直接覆盖默认 CDN 链接（优先级最高）
   options:
