@@ -19,7 +19,7 @@ const https = require('https');
 
 const THEME_DIR = isNPM ? path.join(__dirname, 'node_modules', 'hexo-theme-solitude') : path.join(__dirname, 'themes', 'solitude');
 const PLUGIN_FILE = path.join(THEME_DIR, 'plugins.yml');
-const OUTPUT_DIR = path.join(__dirname, 'themes', 'solitude', 'source', 'libs');
+const OUTPUT_DIR = path.join(__dirname, foderName);
 
 function parsePluginsYml(text) {
   const res = {};
