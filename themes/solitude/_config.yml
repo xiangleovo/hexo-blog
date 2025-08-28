@@ -969,13 +969,13 @@ google_adsense:
 CDN:
   # CDN providers configuration
   # CDN提供商配置
-  internal: local # local / cdnjs / jsdelivr / unpkg / custom
-  third_party: custom # cdnjs / jsdelivr / unpkg / custom
+  internal: cdnjs # local / cdnjs / jsdelivr / unpkg / custom
+  third_party: cdnjs # cdnjs / jsdelivr / unpkg / custom
   version: true # 是否使用版本号
   
   # Custom format for CDN URLs
   # CDN URL 自定义格式
-  custom_format: https://www.qqe4.com/plugins/${cdnjs_name}@${version}/${file}
+  custom_format: # https://www.qqe4.com/plugins/${cdnjs_name}@${version}/${file}
   
   # 直接覆盖默认 CDN 链接（优先级最高）
   options:
