@@ -23,6 +23,10 @@ pretty_urls:
 # 设置默认编码
 charset: utf-8
 
+# 跳过渲染的目录（保持原样复制）
+skip_render:
+  - "plugins/**"  # 添加这行，确保plugins目录被复制但不被处理
+  
 # RSS订阅配置
 feed:
   type: atom  # 类型：atom 或 rss2
