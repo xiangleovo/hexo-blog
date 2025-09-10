@@ -564,9 +564,9 @@ footer:
         - fab fa-creative-commons-by
         - fab fa-creative-commons-nc
         - fab fa-creative-commons-nd
-    - name: boringbay
-      url: https://boringbay.com/
-      img: https://boringbay.com/api/badge/www.dao.js.cn
+    # - name: boringbay
+    #   url: https://boringbay.com/
+    #   img: https://boringbay.com/api/badge/www.dao.js.cn
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
