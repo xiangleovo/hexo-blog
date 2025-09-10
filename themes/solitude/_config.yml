@@ -627,7 +627,7 @@ keyboard:
 # Lazyload
 # 懒加载
 lazyload:
-  enable: true
+  enable: false
   field: site
   placeholder: ""
   errorimg: /img/error_load.avif
@@ -639,7 +639,7 @@ lazyload:
 loading:
   # Full screen loading
   # 全屏加载
-  fullpage: false
+  fullpage: true
   # Loading icon, default is siteicon
   # 加载图标，不写默认siteicon
   favicon: https://image.qqe4.com/Piclist/20250417204903752.jpg
