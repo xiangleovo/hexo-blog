@@ -187,9 +187,9 @@ aside:
     # 总字数
     wordcount: true
     # PV
-    pv: true
+    pv: false
     # UV
-    uv: true
+    uv: false
     # Last update date
     # 最后更新日期
     updatetime: true
@@ -932,7 +932,7 @@ recent_comments:
 
 # --------------------------- start ---------------------------
 # Busuanzi
-busuanzi: true
+busuanzi: false
 # 0: Original / 1: Custom
 # 0: 原版 / 1: 自定义版
 busuanzi_use: 0
