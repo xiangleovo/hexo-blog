@@ -273,7 +273,7 @@ post:
     # uv
     readtime: false
     # pv
-    pv: true
+    pv: false
     # Comment count
     # 评论数
     comment: true
@@ -352,7 +352,7 @@ display_mode:
 # 字体
 font:
   font-size: 16px
-  code-font-size: 16px
+  code-font-size: 14px
   # Global font
   # 全局字体
   font-family: "PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif"
@@ -543,7 +543,7 @@ footer:
     #   Copyright: /copyright/
 
   # 随机友链
-  randomlink: false # 随机友链
+  randomlink: true # 随机友链
 
   # 备案
   beian:
@@ -564,9 +564,9 @@ footer:
         - fab fa-creative-commons-by
         - fab fa-creative-commons-nc
         - fab fa-creative-commons-nd
-    # - name: boringbay
-    #   url: https://boringbay.com/
-    #   img: https://boringbay.com/api/badge/www.dao.js.cn
+    - name: boringbay
+      url: https://boringbay.com/
+      img: https://boringbay.com/api/badge/www.qqe4.com
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -750,6 +750,9 @@ extends:
   # Insert in head
   # 插入到 head
   head:
+    # <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+    # <script>LA.init({id:"3KXyEuZJTkRINUx8",ck:"3KXyEuZJTkRINUx8"})</script>
+    - <script src="/js/51la.js"></script>
     - <link rel="stylesheet" href="/schedule/schedule.css">
   #  - <script src="https://cdn.bootcdn.net/ajax/libs/pace/1.2.4/pace.min.js"></script>
 
@@ -850,11 +853,10 @@ giscus:
 # --------------------------- start ---------------------------
 # Search
 search:
-  enable: false
-  type: # local / algolia / docsearch
+  enable: true
+  type: local # / algolia / docsearch
   tags:
-    # - Solitude
-    # - Hexo
+    - Hexo
   # Algolia
   algolia:
     # hits:
