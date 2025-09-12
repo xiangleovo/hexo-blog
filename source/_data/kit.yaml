@@ -4,22 +4,22 @@
     - name: iPhone 13 Pro
       specification: 6.1英寸 / A15芯片 / 120Hz ProMotion显示屏
       description: 强大的性能与出色的拍照能力，兼顾拍摄、剪辑、办公等多种用途，是随身的生产力利器。
-      image: https://image.qqe4.com/Piclist/20250912105654194.png
+      image: https://image.qqe4.com/Piclist/20250912143421207.png
       link: https://www.apple.com.cn/iphone/
     - name: 罗技 MX Keys
       specification: 无线机械键盘 / 蓝牙连接
       description: 为高效工作而设计的键盘，键程适中，打字体验优秀，适合长时间工作使用。
-      image: https://image.qqe4.com/Piclist/20250912110050144.png
+      image: https://image.qqe4.com/Piclist/20250912143421201.png
       link: https://www.logitech.com/zh-cn/shop/p/mx-keys-s
     - name: 罗技 Master 3S
       specification: 高性能无线鼠标 / 可自定义按钮
       description: 适合专业工作者的鼠标，具有极高的精确度和舒适感，适合长时间使用。
-      image: https://image.qqe4.com/Piclist/20250912110326212.png
+      image: https://image.qqe4.com/Piclist/20250912143421208.png
       link: https://www.logitech.com/zh-cn/shop/p/mx-master-3s
     - name: 罗技 G Pro X Superlight 2
       specification: 无线电竞鼠标 / 轻量化设计 / HERO传感器
       description: 专为电竞设计，极致轻量化和高精度传感器，提供精准的操作体验。
-      image: https://image.qqe4.com/Piclist/20250912110645542.png
+      image: https://image.qqe4.com/Piclist/20250912143421204.png
       link: https://gaming.logitech.com/zh-cn/shop/p/pro-x2-superlight-wireless-mouse
 
 - class_name: 生活
@@ -28,20 +28,20 @@
     - name: Redmi A Pro 65电视
       specification: 65英寸 / 4K超高清
       description: 大屏幕电视，适合家庭影院和游戏娱乐体验，色彩和画质优秀。
-      image: https://image.qqe4.com/Piclist/20250912111722343.png
+      image: https://image.qqe4.com/Piclist/20250912143421202.png
       link: https://www.mi.com/redmi-tvs/a-pro-65-es
     - name: 九号 M95C
       specification: 智能电动摩托车 / 100KM续航
       description: 旗舰级电摩车型，强劲动力与长效续航完美结合，智能系统提升骑行体验。
-      image: https://image.qqe4.com/Piclist/20250912105317134.png
+      image: https://image.qqe4.com/Piclist/20250912143421206.png
       link: https://detail.tmall.com/item.htm?id=698457765578
     - name: Mi 体脂秤 S400 Pro
       specification: 智能体脂秤 / 多种健康指标测量 / 蓝牙连接
       description: 精确的体脂测量功能，支持多种健康数据同步，适合监测日常健康。
-      image: https://image.qqe4.com/Piclist/20250912111945222.png
+      image: https://image.qqe4.com/Piclist/20250912143421205.png
       link: https://www.mi.com/shop/buy/detail?product_id=20409
     - name: AirPods Pro
       specification: 标准版
       description: 可以说是非常强的耳机了，还有好几次固件大幅度更新。apple生态只要有两个设备及以上，必入。
-      image: https://image.qqe4.com/Piclist/20250912112219515.png
+      image: https://image.qqe4.com/Piclist/20250912143421203.png
       link: https://www.apple.com.cn/airpods-pro/
