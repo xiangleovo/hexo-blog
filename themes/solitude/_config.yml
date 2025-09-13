@@ -266,12 +266,12 @@ post:
     updated: false
     # Location
     # 位置
-    locate: false
+    locate: true
     # Number of words
     # 字数
     wordcount: true
     # uv
-    readtime: false
+    readtime: true
     # pv
     pv: false
     # Comment count
