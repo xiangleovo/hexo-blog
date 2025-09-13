@@ -358,7 +358,7 @@ font:
   font-family: "PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif"
   # Code font
   # 代码字体
-  code-font-family: '"monospace", monospace'
+  code-font-family: '"Fira Code", PingFang SC, monospace'
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -753,6 +753,7 @@ extends:
     # <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
     # <script>LA.init({id:"3KXyEuZJTkRINUx8",ck:"3KXyEuZJTkRINUx8"})</script>
     - <script src="/js/51la.js"></script>
+    - <link href="https://cdn.bootcdn.net/ajax/libs/firacode/6.2.0/fira_code.css" rel="stylesheet">
     - <link rel="stylesheet" href="/schedule/schedule.css">
   #  - <script src="https://cdn.bootcdn.net/ajax/libs/pace/1.2.4/pace.min.js"></script>
 
