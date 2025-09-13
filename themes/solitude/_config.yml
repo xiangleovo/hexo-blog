@@ -77,22 +77,22 @@ hometop:
       # - 我希望能够改变世界
     icon:
       HTML: # name
-        img: https://i.postimg.cc/vBWVnY8q/html.png # url
+        img: https://image.qqe4.com/Piclist/20250913133021783.png # url
         color: "#e9572b" # color
       JS:
-        img: https://i.postimg.cc/3N10Ltv2/js.png
+        img: https://image.qqe4.com/Piclist/20250913133034955.png
         color: "#f7cb4f"
       Docker:
-        img: https://i.postimg.cc/8Pk6Fg24/docker.png
+        img: https://image.qqe4.com/Piclist/20250913133043603.png
         color: "#57b6e6"
       Flutter:
-        img: https://i.postimg.cc/hPC7T3gB/flutter.png
+        img: https://image.qqe4.com/Piclist/20250913133058850.png
         color: "#ffffff"
       WebPack:
-        img: https://i.postimg.cc/dVLZBmtT/webpack.png
+        img: https://image.qqe4.com/Piclist/20250913133109118.png
         color: "#2e3a41"
       Git:
-        img: https://i.postimg.cc/nhgjwjCS/git.png
+        img: https://image.qqe4.com/Piclist/20250913133119822.png
         color: "#df5b40"
   group:
     热门: /tags/Fire/ || fas fa-fire || linear-gradient(to right,#f65,#ffbf37)
