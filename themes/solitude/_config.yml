@@ -805,7 +805,7 @@ comment:
   # Hot comment tips
   # 热评提示
   hot_tip:
-    enable: false
+    enable: true
     # Number of hot comments
     count: 3
   # recent comments(⚠️ Comments need to be configured first.)
