@@ -93,8 +93,14 @@ mixin copyrightInfo()
   - const yearRange = startYear === currentYear ? startYear : `${startYear} - ${currentYear}`
   
   .copyright © #{yearRange} By&nbsp;
-    +link('/', config.author, { class: 'footer-bar-link' })
+    a.footer-bar-link(href='/')
       img.author-avatar(src=url_for(theme.site.icon))
+      | #{config.author}
+
+  //-  旧版代码备份
+  //- .copyright © #{yearRange} By&nbsp;
+  //-   +link('/', config.author, { class: 'footer-bar-link' })
+  //-     img.author-avatar(src=url_for(theme.site.icon))
 
 //- 备案信息组件
 mixin beianInfo()
