@@ -133,7 +133,7 @@ aside:
   my_card:
     author:
       img: https://image.qqe4.com/Piclist/20250417204903752.jpg
-      sticker:  # url, 24x24 size
+      sticker: https://image.qqe4.com/Piclist/20250922170005202.png # url, 24x24 size
     # 介绍 / Introduction
     description: 热爱生活，分享科技。
     # 内容 / Content
