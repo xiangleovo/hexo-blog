@@ -666,7 +666,7 @@ highlight:
   # default: 默认 / mac : 苹果终端
   theme: mac
   # default / solidity / dracula
-  color: solidity
+  color: default
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
